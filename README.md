@@ -1,7 +1,7 @@
 
 # 🎓 E-Learning Django REST API
 
-A Django REST Framework-based backend for an E-Learning system. Uses PostgreSQL as the database.
+A Django REST Framework-based backend for an E-Learning system.
 
 ---
 
