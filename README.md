@@ -1,4 +1,5 @@
-![Screenshot 2025-06-21 200017](https://github.com/user-attachments/assets/7bb02237-f31f-4ae5-8fb2-245dd07e6012)
+![Screenshot 2025-06-21 203821](https://github.com/user-attachments/assets/67c82026-cee8-49e9-8e6a-19071345ac8f)
+
 # 🎓 E-Learning Django REST API
 
 A Django REST Framework-based backend for an E-Learning system.
